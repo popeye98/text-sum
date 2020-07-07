@@ -1,4 +1,4 @@
 wordnet
 stopwords
 maxent_treebank_pos_tagger
-averaged_perceptron_taggerabc
+averaged_perceptron_tagger
